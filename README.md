@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Sobre mí
+Soy un desarrollador web apasionado por la tecnología backend, la automatización y las soluciones inteligentes con IA.
 
-<!--
-**ST2808/ST2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías y herramientas
+[badges aquí]
 
-Here are some ideas to get you started:
+## 📈 Estadísticas
+[stats aquí]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contáctame
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/tuusuario)
+
+---
